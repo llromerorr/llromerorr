@@ -1,16 +1,16 @@
-### Hi there 👋
+# ¡Bienvenido a mi perfil! 👋
 
-<!--
-**llromerorr/llromerorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Luis Romero, un desarrollador de software apasionado por la programación y el aprendizaje.
 
-Here are some ideas to get you started:
+- 🔭 Actualmente estoy trabajando en proyectos personales con C, C++, Flutter - Dart y Godot Engine.
+- 🌱 Estoy aprendiendo sobre desarrollo multiplataforma y Android.
+- 🎓 Soy estudiante de Ciencias de la Computación en la Facultad de Ciencias y Tecnología de la Universidad de Carabobo en Venezuela.
+- 🙏 Soy cristiano por la misericordia de Cristo Jesús.
+- 📫 Puedes contactarme por [Instagram](https://www.instagram.com/llromerorr/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Algunos de mis repositorios destacados
+
+- [Mada](https://github.com/llromerorr/mada): Un lenguaje de programación de tipado estático que se puede escribir y ejecutar con un intérprete propio, desarrollado en C++ con fines académicos.
+- [Multiplication-Table](https://github.com/llromerorr/Multiplication-Table): Una aplicación para practicar la tabla de multiplicar desarrollada con Godot y GDScript. Disponible para Android en Google Play.
+
+Espero que te haya gustado mi perfil. Si quieres saber más sobre mí, puedes seguirme en Instagram.
